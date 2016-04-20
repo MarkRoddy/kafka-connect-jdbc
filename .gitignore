@@ -1,5 +1,6 @@
 # Build products
 target/
+.vagrant
 
 # IntelliJ data
 *.iml
